@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/batDau.fire",orientation:"landscape",jsList:[],bundleVers:{internal:"fbb78",main:"16b2f"}};
